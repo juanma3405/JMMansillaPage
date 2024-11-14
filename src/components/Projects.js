@@ -33,7 +33,7 @@ const Projects = () => {
                 target="_blank"
                 rel="noopener noreferrer"
               >
-                <button className="btn btn-primary">Watch Live</button>
+                <button className="btn btn-primary">Ver vivo</button>
               </a>
             </div>
           </div>
@@ -63,7 +63,7 @@ const Projects = () => {
                 target="_blank"
                 rel="noopener noreferrer"
               >
-                <button className="btn btn-primary">Watch Live</button>
+                <button className="btn btn-primary">Ver vivo</button>
               </a>
             </div>
           </div>
